@@ -1,0 +1,4 @@
+var emit = "goods";
+var out = "embrace";
+console.log(out);
+console.log(emit);
